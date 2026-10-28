@@ -1,0 +1,40 @@
+{
+  "site": "shantiwellnessatseminyak",
+  "url": "https://shantiwellnessatseminyak.tilda.ws",
+  "folder": "D:/40 projects/shantiwellnessatseminyak",
+  "industry": "spa-wellness",
+  "date": "2026-10-23",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Marcellus"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [
+    "Book",
+    "Contact",
+    "Footer",
+    "Gallery",
+    "Header",
+    "Hero",
+    "Mark",
+    "Motion",
+    "Pricing",
+    "Services",
+    "SmoothScroll",
+    "Team"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Single-page site; pricing link disabled (went to original site)"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

@@ -1,0 +1,28 @@
+{
+  "site": "moanahub",
+  "url": "https://moanahub.com",
+  "folder": "D:/40 projects/moanahub",
+  "industry": "wellness-hub",
+  "date": "2026-10-17",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "DM Sans",
+    "Lexend"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Max 2 colours from the site; hero design from user reference used site-wide"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

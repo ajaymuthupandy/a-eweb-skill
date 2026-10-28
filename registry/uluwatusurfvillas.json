@@ -1,0 +1,54 @@
+{
+  "site": "uluwatusurfvillas",
+  "url": "https://uluwatusurfvillas.com",
+  "folder": "D:/40 projects/uluwatusurfvillas",
+  "industry": "surf-villas",
+  "date": "2026-10-17",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Bricolage Grotesque"
+  ],
+  "palette": [],
+  "hero": "background video, logo font in the hero",
+  "sections": [],
+  "motifs": [
+    "swell divider",
+    "sunset line",
+    "reef ticker"
+  ],
+  "components": [
+    "BaliClock",
+    "BookBand",
+    "Countdown",
+    "DaysBand",
+    "EventList",
+    "Footer",
+    "Gallery",
+    "Header",
+    "InquiryBlock",
+    "MenuTabs",
+    "MonumentHero",
+    "PageHero",
+    "PropertyMap",
+    "Rail",
+    "ReefTicker",
+    "Split",
+    "SunsetLine",
+    "SwellDivider",
+    "VideoPoster",
+    "VillaCard",
+    "VillaExplorer",
+    "VillaIndex"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Map + bottom-left image as an L shape; bold section dividers"
+  ],
+  "source": "code scan + project memory/transcripts"
+}

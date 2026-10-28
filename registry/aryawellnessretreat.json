@@ -1,0 +1,25 @@
+{
+  "site": "aryawellnessretreat",
+  "url": "https://aryawellnessretreat.com",
+  "folder": "D:/40 projects/aryawellnessretreat",
+  "industry": "hostel-retreat",
+  "date": "2026-10-21",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [],
+  "palette": [],
+  "hero": "right-side original image used across every page hero",
+  "sections": [],
+  "motifs": [],
+  "components": [],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "No Next.js app/layout found in the folder; fill in fonts and components when next touched"
+  ],
+  "source": "code scan + project memory/transcripts"
+}

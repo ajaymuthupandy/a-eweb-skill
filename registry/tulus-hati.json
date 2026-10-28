@@ -1,0 +1,41 @@
+{
+  "site": "tulus-hati",
+  "url": "https://www.tulus-hati.com",
+  "folder": "D:/40 projects/tulus-hati",
+  "industry": "retreat",
+  "date": "2026-10-27",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Poppins"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [
+    "About",
+    "Contact",
+    "Footer",
+    "Gallery",
+    "Hero",
+    "Intro",
+    "Nav",
+    "Offers",
+    "Preloader",
+    "Retreat",
+    "Reveals",
+    "SmoothScroll",
+    "Stay"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Leaf design and pointer effects removed; animations from user reference"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

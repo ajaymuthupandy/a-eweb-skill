@@ -1,0 +1,26 @@
+{
+  "site": "gaiaoasis",
+  "url": "https://www.gaia-oasis.com",
+  "folder": "D:/40 projects/gaiaoasis",
+  "industry": "retreat",
+  "date": "2026-10-21",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "No Next.js app/layout found; fill in when next touched",
+    "Brief: must not copy Arya Wellness Retreat"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

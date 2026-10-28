@@ -1,0 +1,45 @@
+{
+  "site": "thearkbali",
+  "url": "https://www.thearkbali.com",
+  "folder": "D:/40 projects/thearkbali/web",
+  "industry": "retreat",
+  "date": "2026-10-21",
+  "style": {
+    "primary": "#15 Surrealism",
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Marcellus"
+  ],
+  "palette": [
+    "#092b18",
+    "#cba876",
+    "#f4eee4"
+  ],
+  "hero": "full-bleed photo, text left over a green gradient, transparent header turning solid",
+  "sections": [],
+  "motifs": [
+    "pointed-arch image frames from the logo",
+    "swaying palm-leaf shadows (hero only)",
+    "gold line icons in thin rings",
+    "plants and stone vases beside the closing band"
+  ],
+  "components": [
+    "CtaBand",
+    "Footer",
+    "Header",
+    "Icons",
+    "InquiryForm",
+    "QuoteSlider",
+    "RoomExplorer"
+  ],
+  "header": "non-sticky",
+  "footer": "forest footer with faint line-drawn leaf",
+  "notes": [
+    "Every page ends with CtaBand + footer",
+    "QA gate 2026-10-28: 84px of the previous section shows above the closing band on every page; header menu 13.5px vs footer 12px"
+  ],
+  "source": "code scan + project memory/transcripts"
+}

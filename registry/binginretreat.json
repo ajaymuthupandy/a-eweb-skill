@@ -1,0 +1,35 @@
+{
+  "site": "binginretreat",
+  "url": "https://www.binginretreat.com",
+  "folder": "D:/40 projects/binginretreat",
+  "industry": "retreat",
+  "date": "2026-10-21",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Raleway"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [
+    "Botanical",
+    "EnquiryForm",
+    "Footer",
+    "Gallery",
+    "Header",
+    "ScrollToTop",
+    "SpacesShowcase"
+  ],
+  "header": null,
+  "footer": "single-line footer",
+  "notes": [
+    "Hero from the user reference image"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

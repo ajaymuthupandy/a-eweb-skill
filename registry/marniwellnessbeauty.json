@@ -1,0 +1,40 @@
+{
+  "site": "marniwellnessbeauty",
+  "url": "https://marniwellnessbeauty.com",
+  "folder": "D:/40 projects/pranichealinginubud",
+  "industry": "spa-beauty",
+  "date": "2026-10-22",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Fira Sans"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [
+    "Closers",
+    "Footer",
+    "FooterHeight",
+    "Gallery",
+    "Header",
+    "PackageCard",
+    "PageHero",
+    "ReviewCard",
+    "Reviews",
+    "RoomCarousel",
+    "TreatmentCard",
+    "TreatmentMenu"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Folder is named pranichealinginubud but holds the Marni Wellness & Beauty site"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

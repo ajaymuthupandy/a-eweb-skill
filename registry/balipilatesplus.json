@@ -1,0 +1,38 @@
+{
+  "site": "balipilatesplus",
+  "url": "https://www.balipilatesplus.com",
+  "folder": "D:/40 projects/desayogi",
+  "industry": "pilates-studio",
+  "date": "2026-10-27",
+  "style": {
+    "primary": "#9 Editorial / Luxury Minimalism",
+    "supporting": [
+      "#12 Organic Modernism"
+    ],
+    "layout": [
+      "#64 Full-Bleed Image"
+    ],
+    "interaction": [
+      "#71 Micro-interaction-Driven"
+    ]
+  },
+  "fonts": [
+    "Barlow"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [
+    "EnquiryForm",
+    "GiftCardPicker",
+    "HeroSlides",
+    "PricingTabs"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Folder is named desayogi but holds the Bali Pilates Plus site"
+  ],
+  "source": "code scan + project memory/transcripts"
+}

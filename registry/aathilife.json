@@ -1,0 +1,25 @@
+{
+  "site": "aathilife",
+  "url": "https://aathilife.com",
+  "folder": "D:/aathi",
+  "industry": "wellness",
+  "date": "2026-09-25",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "GSAP / ScrollTrigger site; Vercel project deleted, local only"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

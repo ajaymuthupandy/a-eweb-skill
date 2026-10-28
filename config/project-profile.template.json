@@ -1,0 +1,59 @@
+{
+  "$comment": "A-Eweb project profile. Copy to the project root as a-eweb.profile.json and fill it in. Values override the skill defaults for this site only. Keys starting with $ are notes.",
+  "site": "",
+  "originalUrl": "",
+  "originalDomain": "",
+  "siteType": "single-page",
+  "$siteType": "single-page | multi-page",
+  "industry": "",
+  "autoDeploy": false,
+  "homePageLocked": false,
+  "$homePageLocked": "true when the user said 'do not touch the home page'",
+
+  "fonts": {
+    "logoFont": "",
+    "allowed": [],
+    "maxFamilies": 1
+  },
+  "colours": {
+    "brand": [],
+    "maxBrandColours": 2
+  },
+  "header": {
+    "behaviour": "non-sticky",
+    "$behaviour": "non-sticky | sticky | reveal-on-scroll-up",
+    "navMinPx": 16
+  },
+  "layout": {
+    "maxSideMarginPx": 64,
+    "maxSectionPaddingPx": 96,
+    "maxFooterVh": 0.4,
+    "footerFitsWithLastSection": true,
+    "sectionsFitOneScreen": "single-page",
+    "$sectionsFitOneScreen": "single-page (only on single-page sites) | true | false",
+    "exemptSelectors": [],
+    "$exemptSelectors": "CSS selectors of sections allowed to be taller than one screen, e.g. long blog posts"
+  },
+  "content": {
+    "copy": "short",
+    "allowEyebrows": false,
+    "allowNumberLabels": false
+  },
+  "motion": {
+    "scrollAnimations": "subtle",
+    "$scrollAnimations": "none | subtle | rich",
+    "allowPinnedSections": false,
+    "allowCursorEffects": false,
+    "heroVideoControls": false
+  },
+  "images": {
+    "allowGeneratedImages": false
+  },
+  "design": {
+    "primary": "",
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "notes": []
+}

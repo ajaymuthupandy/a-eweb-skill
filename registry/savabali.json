@@ -1,0 +1,44 @@
+{
+  "site": "savabali",
+  "url": "https://www.savabali.com",
+  "folder": "D:/40 projects/savabali",
+  "industry": "eco-retreat",
+  "date": "2026-10-17",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Mate SC",
+    "Montserrat",
+    "Raleway",
+    "Tangerine"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [
+    "flower elements"
+  ],
+  "components": [
+    "Botanical",
+    "EmailCTA",
+    "Footer",
+    "Gallery",
+    "Header",
+    "HeroSlider",
+    "MobileBookBar",
+    "PageHero",
+    "QuoteCarousel",
+    "RoomCard",
+    "Steps"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Green header and footer; 4 font families in code (over the limit)"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

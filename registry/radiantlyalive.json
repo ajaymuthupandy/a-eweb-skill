@@ -1,0 +1,25 @@
+{
+  "site": "radiantlyalive",
+  "url": "https://www.radiantlyalive.com",
+  "folder": "D:/radiantly-alive-yoga",
+  "industry": "yoga-studio",
+  "date": "2026-10-05",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "UI direction and typography modelled on houseofom.com; Radiantly Alive brand colours; auto-deploy project"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

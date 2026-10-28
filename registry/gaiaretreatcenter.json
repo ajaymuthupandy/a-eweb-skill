@@ -1,0 +1,25 @@
+{
+  "site": "gaiaretreatcenter",
+  "url": "https://www.gaiaretreatcenter.com",
+  "folder": "D:/40 projects/gaiaretreatcenter",
+  "industry": "retreat",
+  "date": "2026-10-23",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Philosopher"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [],
+  "header": null,
+  "footer": "short footer",
+  "notes": [],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

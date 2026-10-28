@@ -1,0 +1,42 @@
+{
+  "site": "lovinabeachestate",
+  "url": "https://www.lovinabeachestate.com/en",
+  "folder": "D:/40 projects/lovina",
+  "industry": "villa",
+  "date": "2026-10-19",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Geist"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [
+    "wave text"
+  ],
+  "components": [
+    "EnquiryForm",
+    "EstateBuilder",
+    "Footer",
+    "Gallery",
+    "Header",
+    "HorizontalEvents",
+    "LegalPage",
+    "Logo",
+    "Reveal",
+    "VideoPlayer",
+    "Wave",
+    "WaveText"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Wavy header removed; EN/NL buttons disabled"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

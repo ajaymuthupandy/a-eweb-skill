@@ -1,0 +1,54 @@
+{
+  "site": "balisilentretreat",
+  "url": "https://www.balisilentretreat.com",
+  "folder": "D:/40 projects/balisilentretreat",
+  "industry": "retreat",
+  "date": "2026-10-20",
+  "style": {
+    "primary": "#2 Claymorphism",
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Caladea"
+  ],
+  "palette": [
+    "#F8F7F0",
+    "#6F8A45",
+    "#42572B",
+    "#C6A34A",
+    "#CE5796"
+  ],
+  "hero": null,
+  "sections": [],
+  "motifs": [
+    "delicate floral illustrations",
+    "breath ring"
+  ],
+  "components": [
+    "Book",
+    "Botanical",
+    "BreathRing",
+    "CoWork",
+    "Expect",
+    "Food",
+    "Footer",
+    "Header",
+    "Hero",
+    "Intro",
+    "Location",
+    "Logo",
+    "MobileMenu",
+    "Programs",
+    "Reviews",
+    "Stay",
+    "VideoModal"
+  ],
+  "header": "non-sticky",
+  "footer": null,
+  "notes": [
+    "Single-page site; Food section was the reference for the whole site"
+  ],
+  "source": "code scan + project memory/transcripts"
+}

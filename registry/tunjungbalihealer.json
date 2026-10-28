@@ -1,0 +1,50 @@
+{
+  "site": "tunjungbalihealer",
+  "url": "https://tunjungbalihealer.com",
+  "folder": "D:/40 projects/tunjungbalihealer",
+  "industry": "healer",
+  "date": "2026-10-23",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Arizonia",
+    "Montserrat"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [
+    "ornaments",
+    "stars"
+  ],
+  "components": [
+    "About",
+    "Contact",
+    "Contributions",
+    "Footer",
+    "Header",
+    "Healing",
+    "Hero",
+    "Intention",
+    "Ornaments",
+    "PlayPause",
+    "Programs",
+    "RegisterForm",
+    "Reveal",
+    "Reviews",
+    "SmoothScroll",
+    "Stars",
+    "Story",
+    "Ubud"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Footer from user reference; small leaf removed"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

@@ -1,0 +1,32 @@
+{
+  "site": "balisoulpainting",
+  "url": "https://sites.google.com/zenspirit.it/balisoulpainting",
+  "folder": "D:/40 projects/balisoulpainting",
+  "industry": "art-retreat",
+  "date": "2026-10-19",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Lato"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [
+    "BaliMap",
+    "Header",
+    "PourStudio",
+    "Reveal"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Single-page site; design reference image used, site fonts kept"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

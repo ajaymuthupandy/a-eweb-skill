@@ -1,0 +1,46 @@
+{
+  "site": "yogmantrabali",
+  "url": "https://yogmantrabali.com",
+  "folder": "D:/40 projects/yogmantrabali",
+  "industry": "yoga-school",
+  "date": "2026-10-16",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Kaushan Script",
+    "Shanti"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [
+    "Blog",
+    "Contact",
+    "Courses",
+    "FaqPreview",
+    "FoodMenus",
+    "Footer",
+    "FooterHeight",
+    "GalleryStrip",
+    "GalleryTabs",
+    "Header",
+    "Hero",
+    "Highlights",
+    "JourneyCta",
+    "Oasis",
+    "PostCard",
+    "Testimonials",
+    "WhatsAppFab"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Home page locked as reference; every inner page a different design"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

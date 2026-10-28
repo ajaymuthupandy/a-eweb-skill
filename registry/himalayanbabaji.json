@@ -1,0 +1,32 @@
+{
+  "site": "himalayanbabaji",
+  "url": "https://himalayanbabajiretreats.com",
+  "folder": "D:/40 projects/himalayanbabaji",
+  "industry": "retreat",
+  "date": "2026-10-16",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Montserrat"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [
+    "FadeIn",
+    "Footer",
+    "Header",
+    "WhatsAppFloat"
+  ],
+  "header": "non-sticky",
+  "footer": "copyright only, image above it",
+  "notes": [
+    "Font must never change"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

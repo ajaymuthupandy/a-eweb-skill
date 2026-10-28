@@ -1,0 +1,38 @@
+{
+  "site": "balimindsoul",
+  "url": "https://body-mind-soul.my.canva.site/bali",
+  "folder": "D:/40 projects/balimindsoul/site",
+  "industry": "retreat",
+  "date": "2026-10-19",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "local fonts (3)"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [
+    "About",
+    "Activities",
+    "ContactFooter",
+    "Hero",
+    "Nav",
+    "Reveal",
+    "Soulfood",
+    "Trainings",
+    "VideoBand",
+    "Voices"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Single-page site"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

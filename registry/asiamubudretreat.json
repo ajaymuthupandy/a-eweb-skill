@@ -1,0 +1,40 @@
+{
+  "site": "asiamubudretreat",
+  "url": "https://asiamubudretreat.com",
+  "folder": "D:/40 projects/asiamubudretreat",
+  "industry": "retreat",
+  "date": "2026-10-20",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Brygada 1918"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [
+    "yellow flower and green leaf from the site"
+  ],
+  "components": [
+    "Botanical",
+    "Centre",
+    "Contact",
+    "Facilities",
+    "Footer",
+    "Gallery",
+    "Header",
+    "Hero",
+    "Location",
+    "Treatments"
+  ],
+  "header": "single-page anchors",
+  "footer": null,
+  "notes": [
+    "Single-page site; logo-font serif across the site"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

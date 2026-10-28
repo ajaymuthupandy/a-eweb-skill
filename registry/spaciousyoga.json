@@ -1,0 +1,25 @@
+{
+  "site": "spaciousyoga",
+  "url": "https://spaciousyoga.com",
+  "folder": "D:/spaciousyoga-com",
+  "industry": "yoga-studio",
+  "date": "2026-10-12",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Manager goal: look like houseofom.com (same reference as Radiantly Alive); 2 themes only; auto-deploy project"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

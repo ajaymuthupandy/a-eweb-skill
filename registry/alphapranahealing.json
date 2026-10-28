@@ -1,0 +1,39 @@
+{
+  "site": "alphapranahealing",
+  "url": "https://alphapranahealing.com",
+  "folder": "D:/40 projects/alphapranahealing",
+  "industry": "healer",
+  "date": "2026-10-17",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Lato",
+    "Playfair Display"
+  ],
+  "palette": [],
+  "hero": "background video on the right half, autoplay without controls",
+  "sections": [],
+  "motifs": [],
+  "components": [
+    "Button",
+    "ContactComposer",
+    "CtaBand",
+    "Footer",
+    "Gallery",
+    "Header",
+    "HeroVideo",
+    "PageHero",
+    "Testimonials",
+    "WhatsAppFloat"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "User asked for max 2 fonts and colours, logo colour, elements to fill gaps"
+  ],
+  "source": "code scan + project memory/transcripts"
+}

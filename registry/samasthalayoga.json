@@ -1,0 +1,47 @@
+{
+  "site": "samasthalayoga",
+  "url": "https://samasthalayoga.com",
+  "folder": "D:/40 projects/samasthalayoga",
+  "industry": "yoga-school",
+  "date": "2026-10-22",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [
+      "#27 Bento Grid"
+    ],
+    "interaction": []
+  },
+  "fonts": [
+    "Catamaran",
+    "Inter"
+  ],
+  "palette": [
+    "#0A458F",
+    "#71A2E0"
+  ],
+  "hero": "split page hero: text left, picture filling the right",
+  "sections": [],
+  "motifs": [
+    "faint palm-frond / mountain / wave art behind the footer"
+  ],
+  "components": [
+    "ContactForm",
+    "Faq",
+    "Footer",
+    "FooterArt",
+    "Header",
+    "MailingList",
+    "PageHero",
+    "Prices",
+    "Section",
+    "Timetable",
+    "YouTube"
+  ],
+  "header": null,
+  "footer": "4-column footer with dividers and newsletter",
+  "notes": [
+    "Filled tiles in tight grids, StatStrip, CtaBand"
+  ],
+  "source": "code scan + project memory/transcripts"
+}

@@ -1,0 +1,48 @@
+{
+  "site": "seed-gardens",
+  "url": "https://www.seed-gardens.com",
+  "folder": "D:/40 projects/gardens",
+  "industry": "eco-garden",
+  "date": "2026-10-27",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Cinzel"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [
+    "Counter",
+    "Cursor",
+    "Food",
+    "Footer",
+    "Gallery",
+    "Hero",
+    "LocalTime",
+    "Logo",
+    "Magnetic",
+    "Nav",
+    "Place",
+    "Planner",
+    "Retreats",
+    "RevealText",
+    "Reveals",
+    "Shapes",
+    "SmoothScroll",
+    "Stay",
+    "Stone",
+    "Wellness"
+  ],
+  "header": null,
+  "footer": "background container only, no text animation",
+  "notes": [
+    "Hero copied from user reference; leaves removed; has Cursor and Magnetic components (now blocked by default)"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

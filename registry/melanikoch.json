@@ -1,0 +1,37 @@
+{
+  "site": "melanikoch",
+  "url": "https://www.melanikoch.com",
+  "folder": "D:/40 projects/melanikoch",
+  "industry": "healer",
+  "date": "2026-10-22",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Playfair Display",
+    "Raleway"
+  ],
+  "palette": [],
+  "hero": "full image from assets with site elements in the white space",
+  "sections": [],
+  "motifs": [],
+  "components": [
+    "About",
+    "Footer",
+    "FooterHeight",
+    "Header",
+    "Hero",
+    "HeroArt",
+    "Journey",
+    "Newsletter",
+    "Offerings",
+    "ReikiCourses"
+  ],
+  "header": "sticky (reveal on scroll up)",
+  "footer": null,
+  "notes": [],
+  "source": "code scan + project memory/transcripts"
+}

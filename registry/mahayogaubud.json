@@ -1,0 +1,38 @@
+{
+  "site": "mahayogaubud",
+  "url": "https://mahayogaubud.com",
+  "folder": "D:/40 projects/mahayogaubud",
+  "industry": "hotel-yoga",
+  "date": "2026-10-23",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Poiret One"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [
+    "Contact",
+    "Eatery",
+    "Footer",
+    "Gallery",
+    "Header",
+    "Hero",
+    "Lightbox",
+    "Spa",
+    "StayPlanner",
+    "Villas"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Big number in footer replaced with elements"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

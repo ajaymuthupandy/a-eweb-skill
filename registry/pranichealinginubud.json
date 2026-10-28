@@ -1,0 +1,36 @@
+{
+  "site": "pranichealinginubud",
+  "url": "https://www.pranichealinginubud.com",
+  "folder": "D:/40 projects/marniwellnessbeauty",
+  "industry": "healer",
+  "date": "2026-10-22",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [
+    "DetailsDrawer",
+    "Footer",
+    "Header",
+    "HeroVideo",
+    "HomePage",
+    "InViewVideo",
+    "LiteYouTube",
+    "RevealObserver",
+    "Tile",
+    "WhatsAppFab"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Folder is named marniwellnessbeauty but holds the Pranic Healing Ubud site"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

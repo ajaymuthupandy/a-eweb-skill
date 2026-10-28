@@ -1,0 +1,47 @@
+{
+  "site": "baliwellness",
+  "url": "https://www.baliwellnessretreat.com",
+  "folder": "D:/40 projects/baliwellness",
+  "industry": "retreat",
+  "date": "2026-10-16",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Amatic SC",
+    "Dosis"
+  ],
+  "palette": [],
+  "hero": "auto-sliding hero",
+  "sections": [],
+  "motifs": [],
+  "components": [
+    "CTABand",
+    "CardGrid",
+    "ConnectSection",
+    "ContactForm",
+    "ExcursionDetail",
+    "Faq",
+    "FillGrid",
+    "Footer",
+    "Gallery",
+    "Header",
+    "HeroSlider",
+    "PageHero",
+    "Section",
+    "SettingTiles",
+    "Split",
+    "Testimonials",
+    "TextBlocks",
+    "VenueDetail"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Multi-page; every inner page a different design; no pink, logo colour as secondary; scroll effect removed"
+  ],
+  "source": "code scan + project memory/transcripts"
+}

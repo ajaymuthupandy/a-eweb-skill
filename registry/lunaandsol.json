@@ -1,0 +1,39 @@
+{
+  "site": "lunaandsol",
+  "url": "https://lunaandsol.id/class",
+  "folder": "D:/40 projects/lunaandsol",
+  "industry": "pilates-yoga-studio",
+  "date": "2026-10-18",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Montserrat",
+    "Poppins"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [
+    "sparkle elements"
+  ],
+  "components": [
+    "ClassGrid",
+    "ClassTile",
+    "CtaFooter",
+    "Header",
+    "Hero",
+    "Instructors",
+    "Pricing",
+    "Sparkle"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "No scroll-trigger animations, minute elements only"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

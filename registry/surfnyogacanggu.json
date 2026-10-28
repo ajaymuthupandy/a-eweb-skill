@@ -1,0 +1,25 @@
+{
+  "site": "surfnyogacanggu",
+  "url": "https://surfnyogacanggu.com",
+  "folder": "D:/surfnyogacanggu-com",
+  "industry": "surf-camp",
+  "date": "2026-10-12",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Auto-deploy project"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

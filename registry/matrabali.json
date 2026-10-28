@@ -1,0 +1,41 @@
+{
+  "site": "matrabali",
+  "url": "https://www.matrabali.com",
+  "folder": "D:/40 projects/matrabali",
+  "industry": "hotel",
+  "date": "2026-10-16",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Lato",
+    "Rubik"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [
+    "ContactForm",
+    "Footer",
+    "Gallery",
+    "Header",
+    "HeroSlideshow",
+    "Locations",
+    "MapEmbed",
+    "PageHero",
+    "RevealObserver",
+    "RoomCard",
+    "Section",
+    "VideoTile"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "AI-generated images allowed on this project; map designs changed"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

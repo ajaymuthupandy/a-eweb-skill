@@ -1,0 +1,42 @@
+{
+  "site": "dedeaneubud",
+  "url": "https://dedeaneubud.com",
+  "folder": "D:/40 projects/dedeaneubud",
+  "industry": "hotel-yoga",
+  "date": "2026-10-18",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [
+    "lotus",
+    "ribbon"
+  ],
+  "components": [
+    "Experiences",
+    "Footer",
+    "Gallery",
+    "Header",
+    "Hero",
+    "Intro",
+    "Lotus",
+    "Retreat",
+    "Reveals",
+    "Reviews",
+    "Ribbon",
+    "Rooms",
+    "WhatsAppFab"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Single-page site; scroll animations removed"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

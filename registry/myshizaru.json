@@ -1,0 +1,45 @@
+{
+  "site": "myshizaru",
+  "url": "https://myshizaru.com",
+  "folder": "D:/40 projects/myshizaru",
+  "industry": "yoga-studio",
+  "date": "2026-10-17",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Arimo",
+    "Montserrat"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [
+    "four monkeys mascot"
+  ],
+  "components": [
+    "about",
+    "closing",
+    "contact-form",
+    "experiences",
+    "four-monkeys",
+    "hero",
+    "island-vibes",
+    "motifs",
+    "page-hero",
+    "post-card",
+    "retreats-callout",
+    "schedule-pricing",
+    "site-header",
+    "studio-video"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [
+    "Direction: \"The Island Heat Club\", energetic, not spa-like"
+  ],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}

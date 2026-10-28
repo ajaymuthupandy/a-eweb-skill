@@ -1,0 +1,46 @@
+{
+  "site": "senetan",
+  "url": "https://senetan.villas",
+  "folder": "D:/40 projects/senetan",
+  "industry": "villa-resort",
+  "date": "2026-10-16",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [
+      "#54 Card-Based UI"
+    ],
+    "interaction": []
+  },
+  "fonts": [
+    "Newsreader",
+    "Jost"
+  ],
+  "palette": [
+    "#F5EFE4",
+    "#2B4C3F",
+    "#C86A4B"
+  ],
+  "hero": "full-width edge-to-edge photo under the header",
+  "sections": [],
+  "motifs": [],
+  "components": [
+    "BookButton",
+    "ContactForm",
+    "Faq",
+    "Footer",
+    "FooterHeight",
+    "Header",
+    "ItemCard",
+    "ItemFeature",
+    "Mosaic",
+    "PageHero",
+    "Section"
+  ],
+  "header": null,
+  "footer": "compact, type matches header nav",
+  "notes": [
+    "Contained sections with rounded cards and pill buttons; more text allowed; Cormorant + Lato rejected as AI-looking"
+  ],
+  "source": "code scan + project memory/transcripts"
+}

@@ -1,0 +1,65 @@
+{
+  "site": "desayogi",
+  "url": "https://desayogi.com",
+  "folder": "D:/40 projects/balipilatesplus",
+  "industry": "yoga-studio",
+  "date": "2026-10-27",
+  "style": {
+    "primary": "#97 Biophilic",
+    "supporting": [
+      "#9 Editorial / Luxury Minimalism"
+    ],
+    "layout": [
+      "#65 Immersive Full-Screen"
+    ],
+    "interaction": [
+      "#72 Scroll-Triggered Animation"
+    ]
+  },
+  "fonts": [
+    "Montserrat"
+  ],
+  "palette": [],
+  "hero": "cinematic photo reel with captions, buttons bottom-left",
+  "sections": [
+    "cinematic hero",
+    "inline-photo manifesto",
+    "pinned horizontal method",
+    "teacher switcher",
+    "letter deck",
+    "timetable board",
+    "parallax collage",
+    "price list",
+    "bento",
+    "accordion",
+    "photo + map visit",
+    "arch close inside footer"
+  ],
+  "motifs": [
+    "logo wordmark dots",
+    "arch frame"
+  ],
+  "components": [
+    "BaliClock",
+    "Drift",
+    "Enquiry",
+    "EnquiryDrawer",
+    "HeroMotion",
+    "HeroReel",
+    "Lightbox",
+    "Magnetic",
+    "NextClass",
+    "NextClassPopup",
+    "PriceNote",
+    "RevealObserver",
+    "SiteFooter",
+    "SiteHeader"
+  ],
+  "header": "sticky",
+  "footer": "closing arch section + compact footer in one frame",
+  "notes": [
+    "Folder is named balipilatesplus but holds the Desa Yogi site",
+    "QA gate 2026-10-28: pinned section, 12px header menu, hero buttons never revealed at 1440x900, slider 1 / 6 counter"
+  ],
+  "source": "code scan + project memory/transcripts"
+}

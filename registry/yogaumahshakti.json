@@ -1,0 +1,42 @@
+{
+  "site": "yogaumahshakti",
+  "url": "https://www.yogaumahshakti.com",
+  "folder": "D:/40 projects/yogaumahshakti",
+  "industry": "yoga-school",
+  "date": "2026-10-23",
+  "style": {
+    "primary": null,
+    "supporting": [],
+    "layout": [],
+    "interaction": []
+  },
+  "fonts": [
+    "Bodoni Moda"
+  ],
+  "palette": [],
+  "hero": null,
+  "sections": [],
+  "motifs": [],
+  "components": [
+    "Classes",
+    "Contact",
+    "Footer",
+    "Hero",
+    "Meaning",
+    "Motion",
+    "Nav",
+    "Pausable",
+    "Private",
+    "Programs",
+    "Quote",
+    "Schedule",
+    "Shala",
+    "Story",
+    "Subscribe",
+    "Training"
+  ],
+  "header": null,
+  "footer": null,
+  "notes": [],
+  "source": "code scan + transcripts; style, hero and motifs still to fill in"
+}
