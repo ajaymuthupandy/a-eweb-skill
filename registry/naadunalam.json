@@ -1,0 +1,19 @@
+{
+  "site": "naadunalam",
+  "industry": "organic-marketplace",
+  "style": {
+    "primary": "Organic Luxury editorial (veganvalley.in reference, user-requested 2026-11-17 redesign)",
+    "supporting": ["pastel photo-cover cards", "dark statement sections"],
+    "layout": ["full-screen display-type hero with cutout character and pick switcher", "green marquee ticker", "pastel category card grid 3x2", "filterable 4-col product grid with photo-cover cards and CTA tile", "three-step stretch cards with outline numerals", "dark split story with circular photo and pillar rows", "split FAQ accordion", "statement footer"],
+    "interaction": ["marquee ticker", "rotating circular stamp badge", "hero product switcher dots", "pointer 3D tilt on cards", "accordion FAQ", "category click sets product filter and scrolls"]
+  },
+  "fonts": ["Fraunces", "Outfit"],
+  "palette": ["#2F5138", "#E8A13C", "#F2EFE3", "#C2CEA5", "#22381F"],
+  "hero": "sage green full screen: giant two-tone headline left (Fraunces caps + italic line), farmer cutout bottom-anchored right with float+tilt, rotating stamp badge, today's pick switcher dots bottom right, scroll cue bottom left",
+  "sections": ["hero", "marquee", "categories pastel grid", "filterable product grid", "steps cards", "dark story split", "FAQ", "statement footer"],
+  "motifs": ["rotating stamp with sun mark from logo", "italic margin annotations with curved arrows", "badge pills on product photos"],
+  "components": ["HeroSwitcher", "Tilt", "MarqueeBand", "FilterPills", "Accordion", "FooterHeight"],
+  "header": "sticky cream 72px, logo left, anchor nav center 17px, amber pill right",
+  "footer": "dark forest fixed min(300px,39svh), statement headline, arrow links, contact, back-to-top",
+  "superseded": "earlier entry was #46 Tactile/Textural with Albert Sans + blueprint 3D bowl; replaced by the 2026-11-17 Organic Luxury redesign"
+}
